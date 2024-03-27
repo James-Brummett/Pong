@@ -4,3 +4,4 @@ Pong-1: Color screen to be more in line with Pong game from the original NES. Re
 Pong-2: Add the paddles and ball in a static-state, as well as player score text.
 Pong-3: Add movement to paddles.
 Pong-4: Fix bug that allows paddles to move off the top and bottom of the screen. Add movement to the ball. Add start and play states.
+Pong-5: Remove rendering and movement of paddles and ball; moved to new Class objects via Class library. New implementations used in main.lua.
