@@ -6,3 +6,4 @@ Pong-3: Add movement to paddles.
 Pong-4: Fix bug that allows paddles to move off the top and bottom of the screen. Add movement to the ball. Add start and play states.
 Pong-5: Remove rendering and movement of paddles and ball; moved to new Class objects via Class library. New implementations used in main.lua.
 Pong-6: Added FPS counter and function for performance tracking. Cleaned up code and changed player score font rendering for better, more retro look.
+Pong-7: Added collision checking for the ball. Now collides with top or bottom edge of the screen, or the paddles, and bounces back into play.
