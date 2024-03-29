@@ -8,3 +8,4 @@ Pong-5: Remove rendering and movement of paddles and ball; moved to new Class ob
 Pong-6: Added FPS counter and function for performance tracking. Cleaned up code and changed player score font rendering for better, more retro look.
 Pong-7: Added collision checking for the ball. Now collides with top or bottom edge of the screen, or the paddles, and bounces back into play.
 Pong-8: Added score keeping and ball reset when score updates.
+Pong-9: Added simple state machine which tracks start, serve, and play states.
