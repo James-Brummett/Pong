@@ -9,3 +9,4 @@ Pong-6: Added FPS counter and function for performance tracking. Cleaned up code
 Pong-7: Added collision checking for the ball. Now collides with top or bottom edge of the screen, or the paddles, and bounces back into play.
 Pong-8: Added score keeping and ball reset when score updates.
 Pong-9: Added simple state machine which tracks start, serve, and play states.
+Pong-10: Added victory state for player reaching 10 points.
